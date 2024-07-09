@@ -1,0 +1,9 @@
+td{
+    text-transform: capitalize;
+}
+.imagen img{
+    width: 80%;
+  }
+.imagen{
+  width: 300px;
+}
